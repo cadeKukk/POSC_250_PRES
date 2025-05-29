@@ -1,4 +1,4 @@
-# POSC 250 Research Project: Government Technology Implementation Analysis
+# Artificially Unintelligent
 
 ## 📋 Overview
 
