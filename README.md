@@ -2,7 +2,7 @@
 
 ## 📋 Executive Summary
 
-This repository contains a comprehensive Political Science 250 research project examining government technology implementation and performance metrics across multiple jurisdictions. The study employs rigorous academic methodologies and leverages data from 141 national and international databases to provide unprecedented insights into public sector digital transformation initiatives.
+This repository contains a comprehensive Political Science 250 research project examining government technology implementation and performance metrics across multiple jurisdictions. The study employs rigorous academic methodologies and leverages data from 141 national and international databases.
 
 ## 🎯 Research Objectives
 
